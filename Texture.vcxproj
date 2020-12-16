@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="f_texture.glsl" />
+    <None Include="readme.md" />
     <None Include="v_texture.glsl" />
   </ItemGroup>
   <ItemGroup>
